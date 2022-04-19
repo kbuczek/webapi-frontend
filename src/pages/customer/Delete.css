@@ -1,0 +1,17 @@
+.delete {
+  display: flex;
+  justify-content: center;
+}
+
+.delete-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* margin: 0 auto; */
+  margin-top: 300px;
+}
+
+.delete-container button {
+  margin-left: 10px;
+}
